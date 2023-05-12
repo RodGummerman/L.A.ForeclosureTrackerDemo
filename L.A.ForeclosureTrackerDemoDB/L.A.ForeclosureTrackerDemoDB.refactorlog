@@ -21,4 +21,39 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="PropertyTypeID" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="fc9d13d5-2e3e-4301-820c-f6713fb9b7d1" ChangeDateTime="05/12/2023 01:48:04">
+    <Property Name="ElementName" Value="[dbo].[tblProperties].[PropertyCouncilDistrictID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[tblProperties]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CouncilDistrictID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b17a8567-6e91-417a-94f8-471063e3c9f4" ChangeDateTime="05/12/2023 02:07:54">
+    <Property Name="ElementName" Value="[dbo].[tblPropetyTypes].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[tblPropetyTypes]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PropertyTypeID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="601a4ac3-e840-4bcf-a61a-9b3b62b43e63" ChangeDateTime="05/12/2023 02:16:09">
+    <Property Name="ElementName" Value="[dbo].[tblCityCouncilDistricts].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[tblCityCouncilDistricts]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CityCouncilDistrictID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="87c48a13-95ed-47d4-b20d-26d57d0ab2de" ChangeDateTime="05/12/2023 02:18:16">
+    <Property Name="ElementName" Value="[dbo].[tblLenders].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[tblLenders]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="LenderID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3b0be7da-a07d-4cbb-8c8c-0701f22653a9" ChangeDateTime="05/12/2023 02:23:55">
+    <Property Name="ElementName" Value="[dbo].[tblPropertyManagementCompanies].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[tblPropertyManagementCompanies]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PropertyManagementCompanyID" />
+  </Operation>
 </Operations>

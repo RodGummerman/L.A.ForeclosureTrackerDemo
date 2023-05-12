@@ -1,0 +1,10 @@
+Raw Data Links:
+
+Source of the raw data:  
+
+https://data.lacity.org/
+
+Data column explanations:
+
+https://data.lacity.org/Housing-and-Real-Estate/2020-Registered-Foreclosure-Properties/kde4-k7yx
+

@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RawData", "RawData", "{382B
 		RawData\2021_Registered_Foreclosure_Properties.csv = RawData\2021_Registered_Foreclosure_Properties.csv
 		RawData\2022_Registered_Foreclosure_Properties.csv = RawData\2022_Registered_Foreclosure_Properties.csv
 		RawData\2023_Registered_Foreclosure_Properties.csv = RawData\2023_Registered_Foreclosure_Properties.csv
+		RawData\RawDataLinks.txt = RawData\RawDataLinks.txt
 	EndProjectSection
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "L.A.ForeclosureTrackerDemoDB", "L.A.ForeclosureTrackerDemoDB\L.A.ForeclosureTrackerDemoDB.sqlproj", "{825ECF0D-C2ED-4598-A140-C2023E223AE6}"

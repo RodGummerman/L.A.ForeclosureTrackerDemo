@@ -59,6 +59,10 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="tblProperties.sql" />
+    <Build Include="tblPropertyTypes.sql" />
+    <Build Include="tblCityCouncilDistricts.sql" />
+    <Build Include="tblLenders.sql" />
+    <Build Include="tblPropertyManagementCompanies.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="L.A.ForeclosureTrackerDemoDB.refactorlog" />
