@@ -63,6 +63,11 @@
     <Build Include="tblCityCouncilDistricts.sql" />
     <Build Include="tblLenders.sql" />
     <Build Include="tblPropertyManagementCompanies.sql" />
+    <Build Include="spInsertTblCityCouncilDistricts.sql" />
+    <Build Include="spInsertTblLenders.sql" />
+    <Build Include="spInsertTblProperties.sql" />
+    <Build Include="spInsertTblPropertyManagementCompanies.sql" />
+    <Build Include="spInsertTblPropertyTypes.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="L.A.ForeclosureTrackerDemoDB.refactorlog" />
