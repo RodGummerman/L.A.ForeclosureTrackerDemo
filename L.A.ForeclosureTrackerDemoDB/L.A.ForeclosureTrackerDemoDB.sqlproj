@@ -68,6 +68,10 @@
     <Build Include="spInsertTblProperties.sql" />
     <Build Include="spInsertTblPropertyManagementCompanies.sql" />
     <Build Include="spInsertTblPropertyTypes.sql" />
+    <Build Include="spGetOrCreateIDForTblCityCouncilDistricts.sql" />
+    <Build Include="spGetOrCreateIDForTblLenders.sql" />
+    <Build Include="spGetOrCreateIDForTblPropertyManagementCompanies.sql" />
+    <Build Include="spGetOrCreateIDForTblPropertyTypes.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="L.A.ForeclosureTrackerDemoDB.refactorlog" />
