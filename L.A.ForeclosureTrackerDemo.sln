@@ -17,6 +17,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "L.A.ForeclosureTrackerDemoD
 EndProject
 Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "L.A.ForeclosureTrackerDemoDataLoader", "L.A.ForeclosureTrackerDemoDataLoader\L.A.ForeclosureTrackerDemoDataLoader.dtproj", "{C6DFA89B-2F74-4E3B-B791-33DDB3608AE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.A.ForeclosureTrackerDemoMvcAngular", "L.A.ForeclosureTrackerDemoMvcAngular\L.A.ForeclosureTrackerDemoMvcAngular.csproj", "{19C08635-E08E-4D7D-A315-FB95E799DB49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,12 @@ Global
 		{C6DFA89B-2F74-4E3B-B791-33DDB3608AE2}.Development|Any CPU.Build.0 = Development
 		{C6DFA89B-2F74-4E3B-B791-33DDB3608AE2}.Release|Any CPU.ActiveCfg = Development
 		{C6DFA89B-2F74-4E3B-B791-33DDB3608AE2}.Release|Any CPU.Build.0 = Development
+		{19C08635-E08E-4D7D-A315-FB95E799DB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C08635-E08E-4D7D-A315-FB95E799DB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C08635-E08E-4D7D-A315-FB95E799DB49}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C08635-E08E-4D7D-A315-FB95E799DB49}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{19C08635-E08E-4D7D-A315-FB95E799DB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C08635-E08E-4D7D-A315-FB95E799DB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
